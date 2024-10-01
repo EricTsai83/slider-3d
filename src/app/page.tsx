@@ -1,5 +1,4 @@
 import Image from "next/image";
-import styles from "@/styles/3d-silder.module.css";
 
 export default function Home() {
   const images = [
